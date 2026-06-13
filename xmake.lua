@@ -3,7 +3,7 @@ includes("lib/commonlibsf")
 
 -- set project constants
 set_project("BakaConsoleEditorIDs")
-set_version("3.0.0")
+set_version("4.0.0")
 set_license("GPL-3.0")
 set_languages("c++23")
 set_warnings("allextra")
