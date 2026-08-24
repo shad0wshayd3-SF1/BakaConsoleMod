@@ -12,7 +12,7 @@ set_warnings("allextra")
 add_rules("mode.debug", "mode.releasedbg")
 add_rules("plugin.vsxmake.autoupdate")
 
--- set config
+-- set configs
 set_config("commonlib_xbyak", true)
 
 -- define targets
